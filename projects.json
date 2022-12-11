@@ -19,8 +19,8 @@
       "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
     ],
     "liveSite": "https://assignment-12-edf33.web.app/",
-    "clientSide": "https://github.com/Abdullah-Sakib/Flytographer-client-side",
-    "serverSide": "https://github.com/Abdullah-Sakib/Flytographer-server-side"
+    "clientSide": "https://github.com/Abdullah-Sakib/make-better-use-client-side",
+    "serverSide": "https://github.com/Abdullah-Sakib/make-better-use-server-side"
   },
   {
     "id": 2,
