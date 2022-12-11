@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MAKE BETTER USE",
+    "type": "A camera reselling application.",
+    "large":
+      "https://i.ibb.co/L5HXQFF/screencapture-assignment-12-edf33-web-app-2022-12-11-11-01-23.png",
+    "medium":
+      " https://i.ibb.co/1s0RZZW/assignment-12-edf33-web-app-i-Pad-Mini.png",
+    "small": " https://i.ibb.co/ZKD5nZg/assignment-12-edf33-web-app-i-Phone-SE.png",
+    "bulletPoients": [
+      "People can sell and buy used cameras after signup and sellers can add and delete products.",
+      "Admin can delete seller, buyer, and reported products and verify sellers. Users can report a product to the admin.",
+      "Implemented features like Advertisements, Payment gateway, CRUD operations, JWT token verification, and different routes for users, sellers, and admin.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
+    ],
+    "liveSite": "https://assignment-12-edf33.web.app/",
+    "clientSide": "https://github.com/Abdullah-Sakib/Flytographer-client-side",
+    "serverSide": "https://github.com/Abdullah-Sakib/Flytographer-server-side"
+  },
+  {
+    "id": 2,
+    "name": "FLYTOGRAPHER",
+   " type": "A photographer services selling application.",
+    "large":
+      "https://i.ibb.co/fYbj8LB/screencapture-flytographer-4cc6d-web-app-2022-12-11-11-02-06.png",
+    "medium":
+      " https://i.ibb.co/B2yfHY1/flytographer-4cc6d-web-app-i-Pad-Air.png",
+    "small": "https://i.ibb.co/h8jNKGV/flytographer-4cc6d-web-app-i-Phone-SE.png",
+    "bulletPoients": [
+      "Firebase authentication, Course details pdf, and by clicking course cards user will be redirected to the course details page.",
+      " Users can Sign in and Sign up using email and password, and Sign out. Users can also Sign in with google and GitHub.",
+      " Responsive and well-designed for both mobile and desktop. Implemented a private route so that users can not visit the checkout route before Sign-in.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
+    ],
+    "liveSite": "https://flytographer-4cc6d.web.app/",
+    "clientSide": "https://github.com/Abdullah-Sakib/Flytographer-client-side",
+    "serverSide": "https://github.com/Abdullah-Sakib/Flytographer-server-side"
+  },
+  {
+    "id": 3,
+    "name": "LEARN PHYSICS",
+    "type": "A physics courses selling application.",
+    "large":
+      "https://i.ibb.co/hm2ZKYB/screencapture-learn-physics-f2810-web-app-2022-12-11-11-03-06.png",
+    "medium":
+      " https://i.ibb.co/37ncbCp/learn-physics-f2810-web-app-i-Pad-Air.png",
+    "small": "https://i.ibb.co/mRSv6jB/learn-physics-f2810-web-app-i-Phone-XR.png",
+    "bulletPoients": [
+      "Dynamic cards, CRUD operations, JWT token verification, Privet route, Conditional rendering.",
+      "Functionalities allow adding reviews and services which will show in the application.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
+      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
+    ],
+    "liveSite": "https://learn-physics-f2810.web.app/",
+    "clientSide": "https://github.com/Abdullah-Sakib/Learn-Physics-Client-side",
+    "serverSide": "https://github.com/Abdullah-Sakib/Learn-Physics-sever-side"
+  }
+]
