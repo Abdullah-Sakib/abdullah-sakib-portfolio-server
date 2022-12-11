@@ -9,10 +9,13 @@
       " https://i.ibb.co/1s0RZZW/assignment-12-edf33-web-app-i-Pad-Mini.png",
     "small": " https://i.ibb.co/ZKD5nZg/assignment-12-edf33-web-app-i-Phone-SE.png",
     "bulletPoients": [
-      "People can sell and buy used cameras after signup and sellers can add and delete products.",
-      "Admin can delete seller, buyer, and reported products and verify sellers. Users can report a product to the admin.",
-      "Implemented features like Advertisements, Payment gateway, CRUD operations, JWT token verification, and different routes for users, sellers, and admin.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
+      "Implemented CRUD operations to handle adding and deleteing users and products",
+      "Admin has the ability to delete seller, buyer, and reported products and verify sellers.",
+      "Users can report a product and the product will be shown on the admin's dashboard.then admin can delete the product.",
+      "Implemented payment gateway so that user can pay using card.",
+      "Implemented JWT verifications to secure the APIs and admin and seller roles.",
+      "Implemented different routes for users, sellers and admin so that the system maintenance get easier.",
+      "Implemented the advertisement functionality so that sellers can advertise their products. Advertised products will be shown in the home page.",
       "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
     ],
     "liveSite": "https://assignment-12-edf33.web.app/",
@@ -29,11 +32,11 @@
       " https://i.ibb.co/B2yfHY1/flytographer-4cc6d-web-app-i-Pad-Air.png",
     "small": "https://i.ibb.co/h8jNKGV/flytographer-4cc6d-web-app-i-Phone-SE.png",
     "bulletPoients": [
-      "Firebase authentication, Course details pdf, and by clicking course cards user will be redirected to the course details page.",
-      " Users can Sign in and Sign up using email and password, and Sign out. Users can also Sign in with google and GitHub.",
-      " Responsive and well-designed for both mobile and desktop. Implemented a private route so that users can not visit the checkout route before Sign-in.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
+      "Implemented CRUD operations to handle adding and deleteing service and reviews.",
+      "Implemented privet route so that users can not visit that route before sign in to the website.",
+      "Implemented JWT token verification for securing the users reviews.",
+      "Users can Sign up, Sign in, Sign in with google, and Sign Out. User authentication was handled using Firebase.",
+      "Implemented conditional rendering in different places."
     ],
     "liveSite": "https://flytographer-4cc6d.web.app/",
     "clientSide": "https://github.com/Abdullah-Sakib/Flytographer-client-side",
@@ -49,11 +52,12 @@
       " https://i.ibb.co/37ncbCp/learn-physics-f2810-web-app-i-Pad-Air.png",
     "small": "https://i.ibb.co/mRSv6jB/learn-physics-f2810-web-app-i-Phone-XR.png",
     "bulletPoients": [
-      "Dynamic cards, CRUD operations, JWT token verification, Privet route, Conditional rendering.",
-      "Functionalities allow adding reviews and services which will show in the application.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase.",
-      "Implemented features like updating/deleting reviews, Sign up, Sign in, Google Sign in, and Sign Out. Authentication was handled using Firebase."
+      "Implemented firebase authentication for user authentication.",
+      "Usrs can download course details pdf. ",
+      "By clicking course cards user will be redirected to the course details page.",
+      "Users can Sign in and Sign up using email and password, and Sign out. Users can also Sign in with google and GitHub.",
+      "Responsive and well-designed for both mobile and desktop.",
+      "Implemented a private route so that users can not visit the checkout route before Sign-in."
     ],
     "liveSite": "https://learn-physics-f2810.web.app/",
     "clientSide": "https://github.com/Abdullah-Sakib/Learn-Physics-Client-side",
